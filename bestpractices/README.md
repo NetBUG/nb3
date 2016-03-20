@@ -1,0 +1,1 @@
+This folder contains some samples I consider good practices for personal websites
